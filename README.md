@@ -25,7 +25,7 @@ My goal is to make minecraft as fun as possible by testing the limits of the Min
 My upcoming project is more than just any minecraft server. it is a collection of custom-written systems and unique mechanics that make the game feel refreshing and new including:
 1.  **Custom World Generation** 🌍
 2.  **Custom Bosses & PVP Arenas** ⚔️
-3.  **Daily in-game Events** 🌟
+3.  **Exciting in-game Events** 🌟
 
 
 ---
